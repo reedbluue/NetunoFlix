@@ -26,7 +26,6 @@ void exibeFilmePorId(int id);
 void deletarFilme(int id);
 void atualizaArquivoFilmes();
 void leArquivoFilmes();
-void strToInt(char * string);
 
 Filme colecao[999];
 
