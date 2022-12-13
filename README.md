@@ -25,7 +25,7 @@ A aplicação NetunoFlix foi desenvolvida pela **NETUNO** e visa disponibilizar 
 
 Para instalar a NetunoFlix, siga estas etapas:
 
-> Realize o download da versão mais recente da NetunoFlix `v1.0.0`.
+> Realize o download da [versão mais recente da NetunoFlix `v1.0.0`](https://github.com/reedbluue/netunoflix/releases/download/v1.0.0/NetunoFlix_1_0_0_Installer.exe).
 
 > Execute o `NetunoFlix_1_x_x_Installer.exe`.
 
@@ -40,7 +40,7 @@ __Caso não tenha o `GTK Runtime 3.0 for Windows` intalado em seu computador, a 
 ## 🤝 Reconhecimentos
 
 * Prof. Leonardo Santana Almeida da Silva por conhecimentos em Bases de Programação
-* Prof. Caio Eduardo Pinheiro Costa pelo apoio ao pojeto
+* Prof. Caio Eduardo Pinheiro Costa pelo apoio ao projeto
 
 ## 🙋🏾‍♂️ Autores
 
